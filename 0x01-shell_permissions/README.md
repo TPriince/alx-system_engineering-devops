@@ -1,1 +1,1 @@
-Shell permissions readme
+Shell permissions project readme
