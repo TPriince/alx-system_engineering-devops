@@ -25,6 +25,6 @@ if __name__ == '__main__':
                             id,
                             user_name,
                             todo.get('completed'),
-                            todo.get('title')
+                            todo.get('title'),
                         )
                     )
